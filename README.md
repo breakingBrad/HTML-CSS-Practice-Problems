@@ -8,6 +8,8 @@ If you get stuck on a level you can view the solution folder provided in each le
 
 Don't worry about being pixel perfect, and don't worry if your code doesn't match the solution exactly. As long as it looks the same as the provided image, you're doing it right.
 
+Added line to Project Summary
+
 # Level 1
 
 ## Step 1
